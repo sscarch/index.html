@@ -1,2 +1,12 @@
 # index.html
-&lt;!DOCTYPE html> &lt;html> &lt;head>   &lt;meta charset="UTF-8">   &lt;title>Benim İlk Sitem&lt;/title> &lt;/head> &lt;body>   &lt;h1>Merhaba! GitHub Pages ile ilk sitemi yayınladım 🎉&lt;/h1>   &lt;p>Bu sadece başlangıç. Şimdi üzerine tasarım ekleyebiliriz.&lt;/p> &lt;/body> &lt;/html>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Benim İlk Sitem</title>
+</head>
+<body>
+  <h1>Merhaba! GitHub Pages ile ilk sitemi yayınladım 🎉</h1>
+  <p>Bu sadece başlangıç. Şimdi üzerine tasarım ekleyebiliriz.</p>
+</body>
+</html>

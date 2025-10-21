@@ -6,7 +6,7 @@
   <title>Benim İlk Sitem</title>
 </head>
 <body>
-  <h1>Merhaba! GitHub Pages ile ilk sitemi yayınladım 🎉</h1>
-  <p>Bu sadece başlangıç. Şimdi üzerine tasarım ekleyebiliriz.</p>
+  <h1>S.S.C. ARCHITECTURE </h1>
+  <p>Production- Assembly- Detailing</p>
 </body>
 </html>
